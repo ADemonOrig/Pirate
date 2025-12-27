@@ -1,0 +1,10 @@
+#canvas {
+    background: #000;
+    color: #fff;
+    position: absolute;
+    user-select: none;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    touch-action: none;
+}
